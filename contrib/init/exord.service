@@ -1,0 +1,26 @@
+[Unit]
+Description=Exor's distributed currency daemon
+After=network.target
+
+[Service]
+User=exor
+Group=exor
+
+Type=forking
+PIDFile=/var/lib/exord/exord.pid
+
+ExecStart=/usr/bin/exord -daemon -pid=/var/lib/exord/exord.pid \
+          -conf=/etc/exor/exor.conf -datadir=/var/lib/exord
+
+ExecStop=-/usr/bin/exor-cli -conf=/etc/exor/exor.conf \
+         -datadir=/var/lib/exord stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,26 @@
+# /etc/conf.d/exord: config file for /etc/init.d/exord
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/exor/exor.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/exord"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/exord.pid"
+
+# Where to write exord data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/exord"
+
+# User and group to own exord process
+#BITCOIND_USER="exor"
+#BITCOIND_GROUP="exor"
+
+# Path to exord executable
+#BITCOIND_BIN="/usr/bin/exord"
+
+# Nice value to run exord under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

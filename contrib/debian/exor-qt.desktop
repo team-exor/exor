@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Exor
+Comment=Exor P2P Cryptocurrency
+Comment[fr]=Exor, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Exor, eşten eşe kriptografik sanal para birimi
+Exec=exor-qt %u
+Terminal=false
+Type=Application
+Icon=exor128
+MimeType=x-scheme-handler/exor;
+Categories=Office;Finance;
