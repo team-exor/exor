@@ -26,7 +26,7 @@ Drag Exor-Qt to your applications folder, and then run Exor-Qt.
 
 ### Need Help?
 
-* Join our Discord server [Discord Server](https://discord.gg/cYX3rXs)
+* Join our Discord server [Discord Server](https://discord.gg/dSuGm3y)
 
 Building
 ---------------------

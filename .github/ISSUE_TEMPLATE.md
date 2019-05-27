@@ -1,7 +1,7 @@
 <!--- Remove this description and sections that do not apply -->
 
 This issue tracker is only for technical issues related to Exor Core.
-General Exor questions and/or support requests and are best directed to the [Exor Discord](https://discord.gg/cYX3rXs).
+General Exor questions and/or support requests and are best directed to the [Exor Discord](https://discord.gg/dSuGm3y).
 
 ### Describe the issue
 
