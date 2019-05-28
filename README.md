@@ -22,7 +22,7 @@ More information at [exor.io](https://exor.io)
 <tr><td>Premine</td><td>54,999,979.84 EXOR*</td></tr>
 </table>
 
-*The 54,999,979.84 pre-mine was minted to adequately cover swapping early investors from the NLX blockchain. Once the swap is complete, a large number of unswapped coins will publicly burned and the total supply adjusted accordingly.
+*The 54,999,979.84 pre-mine was minted to adequately cover swapping early investors from the NLX blockchain. Once the swap is complete, a large number of unswapped coins will be publicly burned and the total supply adjusted accordingly.
 
 ### PoS Rewards Breakdown
 
