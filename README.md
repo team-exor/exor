@@ -1,7 +1,9 @@
 Exor Core integration/staging repository
 =====================================
 
-Exor is an open source crypto-currency focused on fast private transactions with low transaction fees & environmental footprint. It utilizes a custom Proof of Stake protocol for securing its network that rewards masternodes with 80% of the block reward while stakers take the remaining 20%. The goal of Exor is to achieve a decentralized sustainable crypto currency with near instant full-time private transactions, fair governance and community intelligence.
+Exor is an open source, decentralized blockchain-based cryptocurrency using the PoS consensus mechanism. Earn, store, and transact digital currency virtually instantaneously with Exors simple to use desktop wallet.
+
+With a low supply, community governance, an open identity team and real-world use cases, Exor aims to increase global adoption of the cryptocurrency space within conventional business with secure and instant digital payments. Exor is also the only accepted currency to provide premium access to the Crypto Asset Manager platform, an industry first.
 
 Exor was originally designed to be used as a payment vehicle for different projects in the Exor ecosystem. The first main project that will interface with and utilize the EXOR network is the Crypto Asset Manager software and is currently available to masternode holders only.
 
