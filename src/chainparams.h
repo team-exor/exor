@@ -110,6 +110,7 @@ public:
     int Zerocoin_DefaultSpendSecurity() const { return nDefaultSecurityLevel; }
     int Zerocoin_HeaderVersion() const { return nZerocoinHeaderVersion; }
     int Zerocoin_RequiredStakeDepth() const { return nZerocoinRequiredStakeDepth; }
+	CAmount TotalCoinsBurned() const { return nTotalCoinsBurned; }
 
     /** Height or Time Based Activations **/
     int LAST_POW_BLOCK() const { return nLastPOWBlock; }
@@ -174,6 +175,7 @@ protected:
     int nZerocoinStartHeight;
     int nZerocoinStartTime;
     int nZerocoinRequiredStakeDepth;
+    CAmount nTotalCoinsBurned;
 
     int nBlockEnforceSerialRange;
     int nBlockRecalculateAccumulators;

@@ -124,7 +124,7 @@ UniValue getinfo(const UniValue& params, bool fHelp)
         return obj;
     }
 
-    obj.push_back(Pair("moneysupply",ValueFromAmount(chainActive.Tip()->nMoneySupply)));
+    obj.push_back(Pair("moneysupply",ValueFromAmount(chainActive.Tip()->nMoneySupply-Params().TotalCoinsBurned())));
 	if (Params().ZeroCoinEnabled()) {
 		UniValue zexorObj(UniValue::VOBJ);
 		for (auto denom : libzerocoin::zerocoinDenomList) {
