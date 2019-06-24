@@ -20,11 +20,13 @@ More information at [exor.io](https://exor.io)
 <tr><td>Masternode Activation</td><td>Block 10281</td></tr>
 <tr><td>Min Stake Age</td><td>60 Minutes</td></tr>
 <tr><td>Maturity</td><td>100 Confirmations</td></tr>
-<tr><td>Max Coin Supply</td><td>70,196,357.44 EXOR*</td></tr>
+<tr><td>Max Coin Supply</td><td>43,000,000 EXOR</td></tr>
 <tr><td>Premine</td><td>54,999,979.84 EXOR*</td></tr>
 </table>
 
-*The 54,999,979.84 pre-mine was minted to adequately cover swapping early investors from the NLX blockchain. Once the swap is complete, a large number of unswapped coins will be publicly burned and the total supply adjusted accordingly.
+*The 54,999,979.84 pre-mine was minted to adequately cover swapping early investors from the NLX blockchain. On June 24, 2019, 27196357.43982939 EXOR was burned by sending to an unspendable wallet address: [EXorBurnAddressXXXXXXXXXXXXXW7cDZQ](https://explorer.exor.io/tx/8474de80e41a2f9b730f52854acf05ce997df739ed5548aed67c7c0c958c7bf1)
+
+NOTE: A small percentage of EXOR is also being held in address [EJ6yc47cAZMGWHFccc9gfGbDLYuyNhP6wL](https://explorer.exor.io/address/EJ6yc47cAZMGWHFccc9gfGbDLYuyNhP6wL) and will be used to sustain the project while we work to build the full Crypto Asset Manager platform.
 
 ### PoS Rewards Breakdown
 
