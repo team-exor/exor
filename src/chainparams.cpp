@@ -127,7 +127,7 @@ public:
         nMaturity = 100;
         nMasternodeCountDrift = 20;
         nMaxMoneyOut = 70196357.44 * COIN;	// Start with 70196357.44 total coins (54999979.84 pre-mine + 20.16 fair swap/launch + 15196357.44 unminted reward coins)
-        nTotalCoinsBurned = 27196357.43982939 * COIN;	// Burned 27196357.43982939 coins on June 24, 2019. txid: tx-id-here
+        nTotalCoinsBurned = 27196357.43982939 * COIN;	// Burned 27196357.43982939 coins on June 24, 2019. txid: 8474de80e41a2f9b730f52854acf05ce997df739ed5548aed67c7c0c958c7bf1
 
         /** Height or Time Based Activations **/
         nLastPOWBlock = 200;
